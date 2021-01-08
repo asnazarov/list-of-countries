@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('fonts/PFDinDisplayPro-Black.eot');
+  src: local('./fonts/PFDinDisplayPro-Black'), local('PFDinDisplayPro-Black'),
+  url('fonts/PFDinDisplayPro-Black.eot?#iefix') format('embedded-opentype'),
+  url('fonts/PFDinDisplayPro-Black.woff2') format('woff'),
+  url('fonts/PFDinDisplayPro-Black.woff') format('woff'),
+  url('fonts/PFDinDisplayPro-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('fonts/PFDinDisplayPro-Bold.eot');
+  src: local('./fonts/PFDinDisplayPro-Bold'), local('PFDinDisplayPro-Bold'),
+  url('fonts/PFDinDisplayPro-Bold.eot?#iefix') format('embedded-opentype'),
+  url('fonts/PFDinDisplayPro-Bold.woff2') format('woff'),
+  url('fonts/PFDinDisplayPro-Bold.woff') format('woff'),
+  url('fonts/PFDinDisplayPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+//font-family: 'PF DinDisplay Pro', Helvetica, Arial, sans-serif;
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('fonts/PFDinDisplayPro-Medium.eot');
+  src: local('./fonts/PFDinDisplayPro-Medium'), local('PFDinDisplayPro-Medium'),
+  url('fonts/PFDinDisplayPro-Medium.eot?#iefix') format('embedded-opentype'),
+  url('fonts/PFDinDisplayPro-Medium.woff2') format('woff'),
+  url('fonts/PFDinDisplayPro-Medium.woff') format('woff'),
+  url('fonts/PFDinDisplayPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('fonts/PFDinDisplayPro-Regular.eot');
+  src: local('./fonts/PFDinDisplayPro-Regular'), local('PFDinDisplayPro-Regular'),
+  url('fonts/PFDinDisplayPro-Regular.eot?#iefix') format('embedded-opentype'),
+  url('fonts/PFDinDisplayPro-Regular.woff2') format('woff'),
+  url('fonts/PFDinDisplayPro-Regular.woff') format('woff'),
+  url('fonts/PFDinDisplayPro-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF DinDisplay Pro';
+  src: url('fonts/PFDinDisplayPro-Light.eot');
+  src: local('./fonts/PFDinDisplayPro-Light'), local('PFDinDisplayPro-Light'),
+  url('fonts/PFDinDisplayPro-Light.eot?#iefix') format('embedded-opentype'),
+  url('fonts/PFDinDisplayPro-Light.woff2') format('woff'),
+  url('fonts/PFDinDisplayPro-Light.woff') format('woff'),
+  url('fonts/PFDinDisplayPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
